@@ -1,3 +1,11 @@
+## Vídeo explicativo da atividade
+
+
+https://github.com/user-attachments/assets/b82a4ad8-cc13-476d-9339-8d7636ed1512
+
+
+
+
 ### Solution (Parte 1) - Floodfill com Mapa Completo
 
 Implementação que usa o serviço `/get_map` para obter o labirinto completo e aplicar o algoritmo Floodfill para encontrar o caminho ótimo.
